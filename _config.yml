@@ -1,0 +1,24 @@
+title: OpenSVBRDF
+logo: /assets/img/sorted_teaser_new.jpg
+description: First large-scale database of measured SVBRDFs.
+repo_description: Rendering results of 108 (out of 1,000) high-quality SVBRDFs in the database.
+show_downloads: true
+google_analytics: G-3PGL0LJ77M
+theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+project_page: https://xiaohema98.com/assets/img/Database_small.pdf
+platform: ACM SIGGRPAH Asia (TOG) 2023
+
+database_page: http://www.cad.zju.edu.cn/home/opensvbrdf
+code_page: https://github.com/OpenSVBRDF/OpenSVBRDF_source_code
+challenges_page: http://www.cad.zju.edu.cn/home/opensvbrdf
+
+help_needed: True
+repository: BeAShaper/minimal
+
+# github:
+#   zip_url: http://example.com/download.zip
+#   another_url: another value

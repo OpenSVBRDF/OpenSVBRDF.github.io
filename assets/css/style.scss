@@ -1,0 +1,42 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+.help_font {
+    font: 50px, bold;
+    color: crimson;
+}
+
+.help-needed {
+    // margin: 0.1rem 6.3rem;
+    border-radius: 10px;
+    background-color: #FFF0F5;
+    background-image: linear-gradient(to bottom, #FFE4E1, #FFF0F5);
+    padding: 10px;
+
+}
+
+.large-image {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1000px;
+    height: 750px;
+    background-color: rgba(0, 0, 0, 0.9);
+    text-align: center;
+    cursor: pointer;
+}
+
+.large-image img {
+    max-width: 90%;
+    max-height: 90%;
+    margin: 3.5% auto;
+    display: block;
+    cursor: pointer;
+}
+
+.small-image{
+    cursor: pointer;
+}
