@@ -3,7 +3,7 @@ logo: /assets/img/sorted_teaser_new.jpg
 description: First large-scale database of measured SVBRDFs.
 repo_description: Rendering results of 108 (out of 1,000) high-quality SVBRDFs in the database.
 show_downloads: true
-google_analytics: G-3PGL0LJ77M
+# google_analytics: G-3PGL0LJ77M
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
