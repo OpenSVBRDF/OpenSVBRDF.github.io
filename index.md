@@ -29,7 +29,7 @@ We store the intermediate neural representations of all SVBRDFs (also described 
 #### 3. Raw images (15TB)
 We also store the 193 raw HDR photographs (with resolution of 24MP) for each sample. The data size for each sample is 15GB, totaling 15TB.
 
-Please visit the <a href="http://www.cad.zju.edu.cn/home/opensvbrdf/">database website</a> to see the preview of 1,000 samples and get download links. 
+Please visit the <a href="http://www.cad.zju.edu.cn/home/opensvbrdf/">database website</a> to see the preview of 1,000 samples and get download links. If your access is restricted, please contact hwu at acm.org or xiaohema1998 at gmail.com for support.
 
 ## License
 
