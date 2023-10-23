@@ -57,9 +57,12 @@ For commercial licensing options, please email hwu at acm.org.
 
 In the future, We are going to set up open challenges (e.g., on material estimation, classification, generation) because standardized benchmarks based on our growing dataset might be useful to quantitatively evaluate existing as well as future research on a common ground.<br><br>
 Further information will be added to the <a href="http://www.cad.zju.edu.cn/home/opensvbrdf/">database website</a>.
-
-<iframe width="480" height="270" src="https://www.youtube.com/embed/tDccO4-SQQE?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+<section>
+<div class="video-container">
+<!-- <iframe width="80%" style="position:relative; padding-bottom:56.25%;" src="https://www.youtube.com/embed/tDccO4-SQQE?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
+<iframe src="https://www.youtube.com/embed/tDccO4-SQQE?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</section>
 ## Acknowledgements
 
 Thanks to the contributions by <a href="https://xiaohema98.com">Xiaohe Ma</a>, Xianmin Xu, Leyao Zhang, and supervision by <a href="http://kunzhou.net/">Kun Zhou</a> and <a href="http://hongzhiwu.com/">Hongzhi Wu</a>. Additionally, we would like to thanks Yaxin Yu and <a href="https://cocoakang.cn/">Kaizhang Kang</a> for help in building the prototype, <a href="https://yuedong.shading.me/">Yue Dong</a>, <a href="https://www.microsoft.com/en-us/research/people/xtong/">Xin Tong</a>, <a href="https://graphics.cs.yale.edu/people/julie-dorsey">Julie Dorsey</a> and <a href="https://graphics.cs.yale.edu/people/holly-rushmeier">Holly Rushmeier</a> for their support.<br>
