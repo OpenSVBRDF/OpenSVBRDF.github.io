@@ -29,11 +29,11 @@ We store the intermediate neural representations of all SVBRDFs (also described 
 #### 3. Raw images (15TB)
 We also store the 193 raw HDR photographs (with resolution of 24MP) for each sample. The data size for each sample is 15GB, totaling 15TB.
 
-Please visit the <a href="http://xiaohema98.com/">database website</a> to see the preview of 1,000 samples and get download links. In order to get full access to the data on the website, it is required to apply for an account with your e-mail. We will review the application within a few working days.
-
+Please visit the <a href="http://www.cad.zju.edu.cn/home/opensvbrdf/">database website</a> to see the preview of 1,000 samples and get download links. 
 
 ## License
 
+In order to get full access to the data on the website, it is required to apply for an account with your e-mail. We will review the application within a few working days. **See <a href="COPYING.txt">COPYING</a> for dataset download and usage agreement**.
 Our source code is released under the GPL-3.0 license for academic purposes. The only requirement for using the code in your research is to cite our paper:
 ```
 @article{Ma:2023:OpenSVBRDF,
@@ -51,12 +51,12 @@ Our source code is released under the GPL-3.0 license for academic purposes. The
         articleno = {254},
 }
 ```
-For commercial licensing options, please email hwu at acm.org. See <a href="COPYING.txt">COPYING</a> for the open source license.
+For commercial licensing options, please email hwu at acm.org. 
 
 ## Challenges
 
 In the future, We are going to set up open challenges (e.g., on material estimation, classification, generation) because standardized benchmarks based on our growing dataset might be useful to quantitatively evaluate existing as well as future research on a common ground.<br><br>
-Further information will be added to the <a href="http://xiaohema98.com/">database website</a>.
+Further information will be added to the <a href="http://www.cad.zju.edu.cn/home/opensvbrdf/">database website</a>.
 
 <iframe width="480" height="270" src="https://www.youtube.com/embed/tDccO4-SQQE?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
