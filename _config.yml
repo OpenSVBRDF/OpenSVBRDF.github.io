@@ -6,7 +6,8 @@ markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: true
-
+favicon: true
+favicon_location: "/assets/img/title.png"
 
 sass:
     style: compressed

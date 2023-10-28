@@ -137,7 +137,7 @@ hr {
 
 .bg {
     width: 100%;
-    min-height: 100vh;
+    // min-height: 100vh;
     display: -webkit-box;
     display: -webkit-flex;
     display: -moz-box;
@@ -148,9 +148,9 @@ hr {
     align-items: center;
     // padding: 15px;
     position: relative;
-    background-image: url("../assets/img/bg1mid.jpg");
+    background-image: url("../assets/img/result4.jpg");
     background-repeat: repeat-y;
-    background-size: auto 100%;
+    background-size: cover;
     z-index: 0;
 }
 
