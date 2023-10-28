@@ -1,26 +1,24 @@
 title: OpenSVBRDF
-logo: /assets/img/sorted_teaser_new.jpg
+url: "https://opensvbrdf.github.io/"
 description: First large-scale database of measured SVBRDFs.
-repo_description: Rendering results of 108 (out of 1,000) high-quality SVBRDFs in the database.
-show_downloads: true
-# google_analytics: G-3PGL0LJ77M
-theme: jekyll-theme-minimal
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 
-project_page: https://xiaohema98.com/assets/img/Database_small.pdf
-platform: ACM SIGGRPAH Asia (TOG) 2023
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
 
-database_page: http://www.cad.zju.edu.cn/home/opensvbrdf/
-# http://www.cad.zju.edu.cn/home/opensvbrdf
-code_page: https://github.com/OpenSVBRDF/OpenSVBRDF_source_code
-challenges_page: http://xiaohema98.com/
-# http://www.cad.zju.edu.cn/home/opensvbrdf
+tracking_id: true
 
-help_needed: True
-repository: BeAShaper/minimal
 
-# github:
-#   zip_url: http://example.com/download.zip
-#   another_url: another value
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "Database"
+   link: "http://www.cad.zju.edu.cn/home/opensvbrdf/"
+ - name: "Challenges"
+   link: "http://www.cad.zju.edu.cn/home/opensvbrdf/"
+ - name: "Source Code"
+   link: "https://github.com/OpenSVBRDF/OpenSVBRDF_source_code/"
+
+footer: true
+footer_text: "Contact: xiaohema1998@gmail.com"
