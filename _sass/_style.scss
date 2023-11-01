@@ -193,6 +193,10 @@ hr {
 }
 
 @media (max-width: 500px) {
+    .container {
+        max-width: $med-width;
+        // transition: 0.3s ease all;
+    }
 	.navbar {
 		text-align: center;
 		padding: 15px 15px 0px 0px;
