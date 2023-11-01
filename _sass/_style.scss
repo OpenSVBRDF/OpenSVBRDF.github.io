@@ -194,7 +194,7 @@ hr {
 
 @media (max-width: 500px) {
     .container {
-        max-width: 83%;
+        max-width: $small-width;
         // transition: 0.3s ease all;
     }
 	.navbar {
