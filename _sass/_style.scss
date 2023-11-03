@@ -126,10 +126,10 @@ hr {
     z-index: 2;
 }
 .wrapper {
-    max-width: $max-width+50px;
+    max-width: $max-width;
     min-height: 100%;
     margin: auto;
-    padding:15px;
+    padding:35px;
     background-color: #fefefe;
     border-radius: 20px; 
     border: 2px solid #ccc; 
@@ -180,14 +180,14 @@ hr {
 
 @media (max-width: 800px) {
     .container {
-        max-width: $med-width;
+        max-width: 100%;
         transition: 0.3s ease all;
     }
 }
 
 @media (max-width: 650px) {
     .container {
-        max-width: 83%;
+        max-width: 100%;
     }
     .navbar-ul {
         margin-top: 5px;
@@ -196,7 +196,7 @@ hr {
 
 @media (max-width: 500px) {
     .container {
-        max-width: 83%;
+        max-width: 100%;
         margin: auto;
 
         // transition: 0.3s ease all;
