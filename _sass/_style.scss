@@ -72,6 +72,8 @@ code, pre {
     font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
     color:#333;
     font-size:11px;
+    white-space: pre-wrap; 
+    word-wrap: break-word; 
 }
 
 hr {
@@ -194,7 +196,9 @@ hr {
 
 @media (max-width: 500px) {
     .container {
-        max-width: $small-width;
+        max-width: 83%;
+        margin: auto;
+
         // transition: 0.3s ease all;
     }
 	.navbar {
