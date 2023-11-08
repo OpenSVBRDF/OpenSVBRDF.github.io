@@ -7,7 +7,7 @@ markdown: kramdown
 
 tracking_id: true
 favicon: true
-favicon_location: "/assets/img/title.png"
+favicon_location: "/assets/img/favicon.ico"
 
 sass:
     style: compressed

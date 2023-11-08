@@ -196,6 +196,11 @@ hr {
         max-width: 100%;
         transition: 0.3s ease all;
     }
+    .authors {
+        margin-top: 15px;
+        margin-bottom: 10px;
+        width: 90%;
+    }
 }
 
 @media (max-width: 650px) {
@@ -205,14 +210,24 @@ hr {
     .navbar-ul {
         margin-top: 5px;
     }
+    .authors {
+        margin-top: 15px;
+        margin-bottom: 10px;
+        width: 90%;
+    }
 }
 
 @media (max-width: 500px) {
     .container {
         max-width: 100%;
         margin: auto;
-        
         // transition: 0.3s ease all;
+    }
+    .authors {
+        margin-top: 15px;
+        margin-bottom: 10px;
+        width: 95%;
+        align-items: center;
     }
 	.navbar {
 		text-align: center;
