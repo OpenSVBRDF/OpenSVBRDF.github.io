@@ -11,9 +11,9 @@ For more technical details, please refer to our <a href="https://svbrdf.github.i
 
 ## Download 
 
-We provide three components of data and the source code in the <a href="http://www.cad.zju.edu.cn/home/opensvbrdf/">database website</a>. You can download different contents based on your research needs.
+We provide three components of data and the source code in the <a href="http://www.cad.zju.edu.cn/home/opensvbrdf/"><span class="enlarge">database portal</span></a>. You can download different contents based on your research needs.
 
-<span class="red-bold-text">Due to government regulations, the database website may become unavailable from time to time.</span> In that case, please <a href="mailto:xiaohema1998@gmail.com?subject=Restricted%20Access%20to%20OpenSVBRDF&body=Please%20provide%20the%20following%20information.%0D%0A%0D%0AFirst%20name%3A%20%0D%0ALast%20name%3A%20%0D%0AYour%20institution%3A%20%0D%0AYour%20region%3A%20%0D%0AHave%20you%20registered%20before%3F%20%28y%2Fn%29%20">contact us via email</a>, so that we can point you to alternative ways to download OpenSVBRDF.
+<span class="red-bold-text">Due to government regulations, the database portal may become unavailable from time to time.</span> In that case, please <a href="mailto:xiaohema1998@gmail.com?subject=Restricted%20Access%20to%20OpenSVBRDF&body=Please%20provide%20the%20following%20information.%0D%0A%0D%0AFirst%20name%3A%20%0D%0ALast%20name%3A%20%0D%0AYour%20institution%3A%20%0D%0AYour%20region%3A%20%0D%0AHave%20you%20registered%20before%3F%20%28y%2Fn%29%20">contact us via email</a>, so that we can point you to alternative ways to download OpenSVBRDF.
 
 
 #### 1. Texture maps (50GB)
@@ -29,7 +29,7 @@ We also store the 193 raw HDR photographs (with a resolution of 24MP) for each s
 The code encompasses all the steps from processing the original captured photographs to fine-tuning neural representations. You can also separately download the portion of the code that converts neural representations into lumitexel vectors.
 
 ## Benchmarks
-In the future, We are going to set up open challenges (e.g., on material estimation, classification, generation) because standardized benchmarks based on our growing dataset might be useful to quantitatively evaluate existing as well as future research on a common ground. Further information will be added to the <a href="http://www.cad.zju.edu.cn/home/opensvbrdf/">database website</a>.
+In the future, We are going to set up open challenges (e.g., on material estimation, classification, generation) because standardized benchmarks based on our growing dataset might be useful to quantitatively evaluate existing as well as future research on a common ground. Further information will be added to the <a href="http://www.cad.zju.edu.cn/home/opensvbrdf/">database portal</a>.
 
 If you are interested in participating in setting up the benchmarks, please don't hesitate to <a href="mailto:xiaohema1998@gmail.com?subject=Setting%20Up%20Benchmarks%20Together!&body=Please%20provide%20the%20following%20information.%0D%0A%0D%0AFirst%20name%3A%0D%0ALast%20name%3A%0D%0AYour%20institution%3A%0D%0APlease%20describe%20your%20project%20experience%20or%20any%20helpful%20ideas%3A">contact us via email</a>.
 
