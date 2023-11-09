@@ -27,24 +27,24 @@ Before downloading and using OpenSVBRDF (the "Database"), please carefully read 
 6. Governing Law:
    The law of China shall apply to all disputes under this Agreement.
 
-Our source code is released under the GPL-3.0 license for academic purposes. The only requirement for using the code in your research is to cite our paper:
+Our source code is released under the GPL-3.0 license for academic purposes. When using our code or any data from the Database, please make sure to cite our paper:
 
-```
-@article{Ma:2023:OpenSVBRDF,
-        author = {Ma, Xiaohe and Xu, Xianmin and Zhang, Leyao and Zhou, Kun and Wu, Hongzhi},
-        title = {OpenSVBRDF: A Database of Measured
-        Spatially-Varying Reflectance},
-        year = {2023},
-        issue_date = {December 2023},
-        publisher = {Association for Computing Machinery},
-        address = {New York, NY, USA},
-        volume = {42},
-        number = {6},
-        doi = {10.1145/3618358},
-        journal = {ACM Trans. Graph.}
-        articleno = {254},
-}
-```
+
+<b>@article{Ma:2023:OpenSVBRDF,
+            author = {Ma, Xiaohe and Xu, Xianmin and Zhang, Leyao and Zhou, Kun and Wu, Hongzhi},
+            title = {OpenSVBRDF: A Database of Measured
+            Spatially-Varying Reflectance},
+            year = {2023},
+            issue_date = {December 2023},
+            publisher = {Association for Computing Machinery},
+            address = {New York, NY, USA},
+            volume = {42},
+            number = {6},
+            doi = {10.1145/3618358},
+            journal = {ACM Trans. Graph.}
+            articleno = {254},
+}</b>
+
 For commercial licensing options, please email hwu@acm.org.
 
 By downloading and using the Database, you acknowledge that you have read, understood, and agreed to the terms and conditions of this Agreement. If you do not agree to these terms, please do not download or use the Database.

@@ -20,10 +20,10 @@ We provide three components of data and the source code in the <a href="http://w
 We store 6 texture maps for each sample in the database, which include GGX parameters (diffuse albedo, specular albedo, anisotropic roughness, normal and tangent), as well as transparency. All texture maps have a spatial resolution of 1,024×1,024. The total size is 50GB (each sample is 50MB).
 
 #### 2. Neural representations (283GB)
-We store the intermediate neural representations of all SVBRDFs (also described as latent vectors in the paper), with spatial resolution 1,024×1,024. The total size is 283GB (each sample is 290MB).
+We store the intermediate neural representations of all SVBRDFs (also described as latent vectors in the paper), with a spatial resolution of 1,024×1,024. The total size is 283GB (each sample is 290MB).
 
 #### 3. Raw images (15TB)
-We also store the 193 raw HDR photographs (with resolution of 24MP) for each sample. The total size is 15TB (each sample is 15GB).
+We also store the 193 raw HDR photographs (with a resolution of 24MP) for each sample. The total size is 15TB (each sample is 15GB).
 
 #### 4. Code (Coming Soon)
 The code encompasses all the steps from processing the original captured photographs to fine-tuning neural representations. You can also separately download the portion of the code that converts neural representations into lumitexel vectors.
