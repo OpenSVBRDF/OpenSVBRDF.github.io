@@ -43,7 +43,7 @@ h2 {
 
 h3, h4, h5, h6 {
 // color:#494949;
-    color:#4682B4;
+    color:#104E8B;
     margin-bottom: 7px;
 }
 
@@ -83,6 +83,11 @@ hr {
     height: 0;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.red-bold-text {
+    color: #CD0000;
+    font-weight: bold;
 }
 
 /*

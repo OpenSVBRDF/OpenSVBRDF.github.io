@@ -6,14 +6,15 @@ layout: default
 
 OpenSVBRDF is the first large-scale database of measured spatially-varying anisotropic reflectance, consisting of 1,000+ high-quality near-planar SVBRDFs, spanning 9 material categories such as wood, fabric and metal. To build this database, we develop a novel integrated system for robust, high-quality and -efficiency reflectance acquisition and reconstruction. Each sample is captured in 15 minutes, and represented as a set of high-resolution texture maps that correspond to spatially-varying BRDF parameters and local frames.
 
-For more technical details, please refer to our <a href="https://svbrdf.github.io/publications/OpenSVBRDF/project.html/">journal-track paper</a > accepted to ACM SIGGRAPH Asia.
+For more technical details, please refer to our <a href="https://svbrdf.github.io/publications/OpenSVBRDF/project.html/">journal-track paper</a > accepted to ACM SIGGRAPH Asia 2023 (ACM TOG).
 
 
 ## Download 
 
 We provide three components of data and the source code in the <a href="http://www.cad.zju.edu.cn/home/opensvbrdf/">database website</a>. You can download different contents based on your research needs.
 
-Due to government regulations, the website may experience occasional unavailability. In such cases, please feel free to <a href="mailto:xiaohema1998@gmail.com?subject=Restricted%20Access%20to%20OpenSVBRDF&body=Please%20provide%20the%20following%20information.%0D%0A%0D%0AFirst%20name%3A%20%0D%0ALast%20name%3A%20%0D%0AYour%20institution%3A%20%0D%0AYour%20region%3A%20%0D%0AHave%20you%20registered%20before%3F%20%28y%2Fn%29%20">contact us</a> for assistance.
+<span class="red-bold-text">Due to government regulations, the database website may become unavailable from time to time.</span> In that case, please <a href="mailto:xiaohema1998@gmail.com?subject=Restricted%20Access%20to%20OpenSVBRDF&body=Please%20provide%20the%20following%20information.%0D%0A%0D%0AFirst%20name%3A%20%0D%0ALast%20name%3A%20%0D%0AYour%20institution%3A%20%0D%0AYour%20region%3A%20%0D%0AHave%20you%20registered%20before%3F%20%28y%2Fn%29%20">contact us via email</a>, so that we can point you to alternative ways to download OpenSVBRDF.
+
 
 #### 1. Texture maps (50GB)
 We store 6 texture maps for each sample in the database, which include GGX parameters (diffuse albedo, specular albedo, anisotropic roughness, normal and tangent), as well as transparency. All texture maps have a spatial resolution of 1,024×1,024. The total size is 50GB (each sample is 50MB).
@@ -30,7 +31,7 @@ The code encompasses all the steps from processing the original captured photogr
 ## Benchmarks
 In the future, We are going to set up open challenges (e.g., on material estimation, classification, generation) because standardized benchmarks based on our growing dataset might be useful to quantitatively evaluate existing as well as future research on a common ground. Further information will be added to the <a href="http://www.cad.zju.edu.cn/home/opensvbrdf/">database website</a>.
 
-If you are interested in participating in setting up the benchmarks, please don't hesitate to <a href="mailto:xiaohema1998@gmail.com?subject=Setting%20Up%20Benchmarks%20Together!&body=Please%20provide%20the%20following%20information.%0D%0A%0D%0AFirst%20name%3A%0D%0ALast%20name%3A%0D%0AYour%20institution%3A%0D%0APlease%20describe%20your%20project%20experience%20or%20any%20helpful%20ideas%3A">contact us</a>.
+If you are interested in participating in setting up the benchmarks, please don't hesitate to <a href="mailto:xiaohema1998@gmail.com?subject=Setting%20Up%20Benchmarks%20Together!&body=Please%20provide%20the%20following%20information.%0D%0A%0D%0AFirst%20name%3A%0D%0ALast%20name%3A%0D%0AYour%20institution%3A%0D%0APlease%20describe%20your%20project%20experience%20or%20any%20helpful%20ideas%3A">contact us via email</a>.
 
 ## Acknowledgements
 
