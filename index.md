@@ -6,7 +6,7 @@ layout: default
 
 OpenSVBRDF is the first large-scale database of measured spatially-varying anisotropic reflectance, consisting of 1,000+ high-quality near-planar SVBRDFs, spanning 9 material categories such as wood, fabric and metal. To build this database, we develop a novel integrated system for robust, high-quality and -efficiency reflectance acquisition and reconstruction. Each sample is captured in 15 minutes, and represented as a set of high-resolution texture maps that correspond to spatially-varying BRDF parameters and local frames.
 
-For more technical details, please refer to our <a href="https://svbrdf.github.io/publications/OpenSVBRDF/project.html/">journal-track paper</a > accepted to ACM SIGGRAPH Asia 2023 (ACM TOG).
+For more technical details, please refer to our <a href="https://svbrdf.github.io/publications/OpenSVBRDF/project.html">journal-track paper</a > accepted to ACM SIGGRAPH Asia 2023 (ACM TOG).
 
 
 ## Download 
