@@ -17,7 +17,7 @@ We provide three components of data and the source code in the <a href="http://o
 
 
 #### 1. Texture maps (50GB)
-We store 6 texture maps for each sample in the database, which include GGX parameters (diffuse albedo, specular albedo, anisotropic roughness, normal and tangent), as well as transparency. Please note that the specular albedo in OpenSVBRDF typically falls within the range of [0, 10], with a few values exceeding 10, rather than the conventional [0, 1] range. All texture maps have a spatial resolution of 1,024×1,024. The total size is 50GB (each sample is 50MB). We calculate the <a href="https://github.com/OpenSVBRDF/OpenSVBRDFgithub.io/assets/parameters.xlsx"><span class="enlarge">statistical information</span></a> for different parameters to facilitate BRDF sampling methods.
+We store 6 texture maps for each sample in the database, which include GGX parameters (diffuse albedo, specular albedo, anisotropic roughness, normal and tangent), as well as transparency. Please note that the specular albedo in OpenSVBRDF typically falls within the range of [0, 10], with a few values exceeding 10, rather than the conventional [0, 1] range. All texture maps have a spatial resolution of 1,024×1,024. The total size is 50GB (each sample is 50MB). We calculate the <a href="http://opensvbrdf.github.io/assets/parameters.xlsx"><span class="enlarge">statistical information</span></a> for different parameters to facilitate BRDF sampling methods.
 
 #### 2. Neural representations (283GB)
 We store the intermediate neural representations of all SVBRDFs (also described as latent vectors in the paper), with a spatial resolution of 1,024×1,024. The total size is 283GB (each sample is 290MB).
